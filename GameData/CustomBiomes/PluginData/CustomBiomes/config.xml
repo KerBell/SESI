@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <config>
     <rect name="WindowPosition">
-        <xmin>134</xmin>
-        <xmax>484</xmax>
-        <ymin>49</ymin>
-        <ymax>539</ymax>
+        <xmin>1</xmin>
+        <xmax>351</xmax>
+        <ymin>80</ymin>
+        <ymax>570</ymax>
     </rect>
     <bool name="WindowMinimized">1</bool>
     <rect name="MapPosition">
-        <xmin>553</xmin>
-        <xmax>1591</xmax>
-        <ymin>260</ymin>
-        <ymax>808</ymax>
+        <xmin>530</xmin>
+        <xmax>1568</xmax>
+        <ymin>179</ymin>
+        <ymax>727</ymax>
     </rect>
     <bool name="MapMinimized">1</bool>
     <int name="WindowTab">0</int>
-    <string name="DefaultSets">Kerbell|Basic;Mikie|Basic;RealKerb|Basic;scenarios|Disable;training|Disable;</string>
+    <string name="DefaultSets">Kerbell|Basic;Mikie|Basic;RealKerb|Basic;scenarios|Disable;SESI1|Basic;training|Disable;</string>
 </config>

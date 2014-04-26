@@ -57,12 +57,27 @@ toolbars
 			drawBorder = True
 			useKSPSkin = False
 			buttonOrder = 
-			visibleButtons = 
+			visibleButtons = ferram4.FAREditorButton,CustomBiomes.Biomes1
 		}
 	}
 	SPACECENTER
 	{
 		toolbar_1915039903
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	TRACKSTATION
+	{
+		toolbar_1945464769
 		{
 			x = 300
 			y = 300

@@ -26,10 +26,10 @@
         <ymax>0</ymax>
     </rect>
     <rect name="FlightDataPos">
-        <xmin>201</xmin>
-        <xmax>459</xmax>
-        <ymin>57</ymin>
-        <ymax>599</ymax>
+        <xmin>99</xmin>
+        <xmax>357</xmax>
+        <ymin>77</ymin>
+        <ymax>619</ymax>
     </rect>
     <rect name="FlightDataHelpPos">
         <xmin>0</xmin>
