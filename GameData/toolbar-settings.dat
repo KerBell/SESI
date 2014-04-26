@@ -1,0 +1,78 @@
+toolbars
+{
+	EDITOR
+	{
+		toolbar_394603650
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	FLIGHT
+	{
+		toolbar_1195161959
+		{
+			x = 185
+			y = 3
+			width = 84
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = ferram4.FAREditorButton,CustomBiomes.Biomes1
+		}
+	}
+	SPH
+	{
+		toolbar_1331011179
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	FLIGHTMAP
+	{
+		toolbar_31807248
+		{
+			x = 173
+			y = -3
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+	SPACECENTER
+	{
+		toolbar_1915039903
+		{
+			x = 300
+			y = 300
+			width = 250
+			height = 38
+			autoHide = False
+			drawBorder = True
+			useKSPSkin = False
+			buttonOrder = 
+			visibleButtons = 
+		}
+	}
+}
