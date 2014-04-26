@@ -4,7 +4,25 @@ This is a collection of mods designed to allow you to play a more realistic game
 I (mikebell) put this together after following the instructions in the Realism Overhaul thread: http://forum.kerbalspaceprogram.com/threads/59207
 It seemed that getting all those mods, and working out a set of options that play well together took a bit of time, so I thought I'd share the results so others could try realistic KSP more easily.
 
-The package ishosted on github: 
+A zip of the latest version is available at: http://kerbell.rddev.co.uk/SESI-latest.zip
+
+The package is version controlled on github: https://github.com/KerBell/SESI
+
+Currently SESI works with KSP v0.23.5.
+
+== Known problems ==
+
+- Tech limits on procedural tank size are not applied after the part is saved and reloaded
+- Procedural solid boosters of the same type are all capped to the same thrust.  To workaround this I've added a second procedural vacuum SRB, with identical characteristics.  This allows two different vacuum SRB configurations if desired.
+- Sometimes the Decurion fails to start when in flight, though I'm not sure if that's a bug or a feature.
+
+== Play hints ==
+
+- You need much more delta-V to get off Earth compared to Kerbin.  You'll need a big, multi-stage rocket.
+- The real fuel engines take Liquid oxygen and Kerosene separately, you'll need to calculate the tank sizes from the proportions listed on the engine to build an optimal rocket.
+- Most of the engines in the early stages of the tech tree will only start once, so think carefully about how you get stuff back out of orbit.
+
+== Mod List ==
 
 The following mods are currently included:
 Custom Biomes (by Trueborn): http://forum.kerbalspaceprogram.com/threads/66256-0-23-Custom-Biomes-1-5-18-Mar
@@ -16,7 +34,7 @@ FAR (by ferram4): http://forum.kerbalspaceprogram.com/threads/20451-0-23-5-Ferra
 Procedural Fairings (by e-dog): http://forum.kerbalspaceprogram.com/threads/39512-0-23-Procedural-Fairings-2-4-4-tech-tree-and-minor-improvements-%28March-31%29
 Kerbal Joint Reinforcement (by ferram4): http://forum.kerbalspaceprogram.com/threads/55657-0-22-Kerbal-Joint-Reinforcement-v1-4-2-Properly-Rigid-Part-Connections
 Procedural Parts (by Swamp Ig, Tiberion, Chestburster, Dante80, jsimmonds and OtherBarry, based on work by NathanKell, e-dog and Ancient Gammoner): http://forum.kerbalspaceprogram.com/threads/70676-WIP-Procedural-Parts-The-next-phase-of-Stretchy-SRBs
-   + Tech tweaks to config files by mikebell
+   + Minor tech tweaks to config files by mikebell
 Real Chute (by stupid_chris, sumghai and ymir9): http://forum.kerbalspaceprogram.com/threads/57988
 Real Fuels (by NathanKell, with contributions from Chestburster, Starwaster, taniwha and swamp_ig): http://forum.kerbalspaceprogram.com/threads/64118-0-23-5-Real-Fuels-v5-1-4-7-14
 Realism Overhaul (by NathanKell and many contributors): http://forum.kerbalspaceprogram.com/threads/59207
@@ -29,7 +47,7 @@ Many mods use (no need to install separately):
   - 000_Toolbar, by Maik Schreiber
 
 I also have installed:
-Life Support (by asmi): http://forum.kerbalspaceprogram.com/threads/58127-asmi-s-ECLSS-Mod-%28current-version-1-0-8%29 (not yet included due to licence)
+Life Support (by asmi): http://forum.kerbalspaceprogram.com/threads/58127-asmi-s-ECLSS-Mod-%28current-version-1-0-8%29 (not yet included due to license)
 
 == Licensing ==
 
@@ -42,5 +60,5 @@ Some plugins have a license in the GameData directory.  For those that are not o
 - Realism Overhaul is under CC BY-SA: http://creativecommons.org/licenses/by-sa/3.0/
 
 You may do with this collection whatever you wish as long as you respect the original licenses.  
-Any changes made as part of this package are licensed under MIT license: http://opensource.org/licenses/MIT
+All changes made as part of this package are licensed under your choice of the license covering the altered mod, if relevant, or the MIT license: http://opensource.org/licenses/MIT
 
