@@ -6,6 +6,8 @@
 /GameData/NASAmission
 /GameData/Squad
 /GameData/LifeSupport
+/GameData/EnvironmentalVisualEnhancements
+/GameData/BoulderCo
 
 !/Ships
 Ships/VAB/Ion-Powered Space Probe.craft
