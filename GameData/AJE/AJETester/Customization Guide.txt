@@ -1,0 +1,31 @@
+Quick and Dirty guideline to engine modeling
+
+For example
+
+	MODULE
+	{
+		name = AJEModuleFX   // this is for ModuleEnginesFX, for ModuleEngines use AJEModule
+		IspMultiplier=1             // for Kerosene=1 IntakeAir=15, use 1/16=0.0625
+                                useOverheat=false        // default value is true
+		defaultentype=2           // load default values for a type of engine
+		acore=5.8                     // custom parameters
+		byprat=0
+		prat3=16
+		tt4=2700
+		tt7=4800
+		abflag=1
+		fhv=18600
+		eta7=0.8
+		tinlt=1200
+		tfan=1500
+		tcomp=2500
+		
+		
+	}
+
+
+1. Find out the max thrust (actually static thrust at sea level) with or without afterburner, and corresponding SFC
+2. Find out compressor pressure ratio and turbine entry temperature. If you cannot find it look for engines from the same era and similar design.
+3. set tt4 and prat3, set abflag=0
+4. adjust acore and efficiency coefficients to match max thrust and SFC without afterburner
+5. set abflag=1 and adjust tt7 and eta7 to match thrust/SFC with afterburner
