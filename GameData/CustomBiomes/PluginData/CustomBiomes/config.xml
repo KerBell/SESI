@@ -4,16 +4,16 @@
         <xmin>1</xmin>
         <xmax>351</xmax>
         <ymin>80</ymin>
-        <ymax>570</ymax>
+        <ymax>576</ymax>
     </rect>
     <bool name="WindowMinimized">1</bool>
     <rect name="MapPosition">
-        <xmin>530</xmin>
-        <xmax>1568</xmax>
-        <ymin>179</ymin>
-        <ymax>727</ymax>
+        <xmin>344</xmin>
+        <xmax>1390</xmax>
+        <ymin>213</ymin>
+        <ymax>769</ymax>
     </rect>
     <bool name="MapMinimized">1</bool>
     <int name="WindowTab">0</int>
-    <string name="DefaultSets">Kerbell|Basic;Mikie|Basic;RealKerb|Basic;scenarios|Disable;SESI1|Basic;training|Disable;</string>
+    <string name="DefaultSets">Kerbell|Basic;Mikie|Basic;RealKerb|Basic;scenarios|Disable;SESI1|Basic;Test|Basic;training|Disable;</string>
 </config>

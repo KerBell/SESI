@@ -26,7 +26,7 @@ Currently SESI works with KSP v0.23.5.
 
 The following mods are currently included:
 Custom Biomes (by Trueborn): http://forum.kerbalspaceprogram.com/threads/66256-0-23-Custom-Biomes-1-5-18-Mar
-   + amo28's Earth biome: http://forum.kerbalspaceprogram.com/threads/55145-0-23-5-Real-Solar-System-v6-4-7-14?p=1050033&viewfull=1#post1050033
+   + Subcidal's Earth biome: http://forum.kerbalspaceprogram.com/threads/55145-0-23-5-Real-Solar-System-v6-4-7-14?p=1050033&viewfull=1#post1050033
 
 Deadly Reentry (by NathanKell, based on work by ialdabaoth and r4m0n): http://forum.kerbalspaceprogram.com/threads/54954-Deadly-Reentry-Continued-v1
 Engine Ignitor (by HoneyFox): http://forum.kerbalspaceprogram.com/threads/51880-0-23-5-Engine-Ignitor-%28V3-2-Pressurizing-RPM-MFD-Boil-off-acc-Feb-12%29
